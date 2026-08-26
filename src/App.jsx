@@ -13,7 +13,7 @@ import {
 /* ============================================================
    CONFIG — sostituisci con il tuo tag di affiliazione Amazon.it
    ============================================================ */
-const AFFILIATE_TAG = "tuotag-21";
+const AFFILIATE_TAG = "juanito09b-21";
 function buyLink(bike) {
   // Link di ricerca Amazon.it con tag affiliato: sostituisci con l'URL
   // diretto del prodotto (con lo stesso tag) non appena hai gli ASIN reali.
